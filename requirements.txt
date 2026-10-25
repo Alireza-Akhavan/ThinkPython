@@ -1,0 +1,5 @@
+notebook
+jupyterlab
+ipykernel
+matplotlib
+PyYAML

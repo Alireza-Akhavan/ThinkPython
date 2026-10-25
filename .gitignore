@@ -1,0 +1,9 @@
+__pycache__/
+*.py[co]
+.ipynb_checkpoints/
+.DS_Store
+# files created while running the notebooks
+photos/
+photo_info/
+captions*
+anagram_map*
